@@ -1,0 +1,31 @@
+sort1 uses: Buble
+
+How do you know?: More computational process in Random reverse but best case omega n lower than selection sort.
+
+sort2 uses: Merge Sort
+
+How do you know?: Easiest one, fastest in all data.
+
+sort3 uses: Selection
+
+How do you know?: Best worst no differ, average computational time in three.
+
+
+
+Sort 1                  Sort 2                    Sort 3
+
+Random    0.123         Random       0.036        Random      0.054
+          0,221                      0.087                    0.139
+          5,771                      0.464                    2.403
+
+Reversed  0,078         Reversed     0.036        Reversed    0.061
+          0,328                      0.075                    0.152
+          5,187                      0.487                    2.769
+
+Sorted    0,040         Sorted       0.031        Sorted      0.059
+          0.083                      0.079                    0.158
+          0.614                      0.468                    2.355
+
+
+
+
